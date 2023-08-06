@@ -1,0 +1,27 @@
+.footer{
+    background-color: var(--secundario);
+    color: var(--negro);
+    padding-left: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.rutas-footer{
+    justify-content: center;
+    display: flex;
+    padding: 2rem 0;
+}
+
+.rutas-footer a{
+    color: var(--blanco);
+    margin-left: 2rem;   
+    font-weight: bold;
+    transition: .2s;
+}
+
+.rutas-footer a:hover{
+    border-bottom: 4px solid var(--negro);
+    padding-bottom: .7rem;
+    color: var(--blanco);
+}
+
