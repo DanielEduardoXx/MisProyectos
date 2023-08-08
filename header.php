@@ -11,6 +11,10 @@
         <div class="img-logo">
             <a href="index.php"><img src="img/logo.jpg" alt="imagen logo" height="70px" height="70%"></a>
         </div>
+
+        <div class="menu">
+            <img src="img/barras.svg" alt="imagen menu" hight="25px" width="25px">
+        </div>
         
         <nav class="rutas">
         
@@ -30,9 +34,7 @@
             <input type="text" name="buscar" placeholder="&#128270; Buscar Producto">
         </div>
 
-        
-
-
     </div>
+
 
 </header>
